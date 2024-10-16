@@ -1,0 +1,38 @@
+img {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto ;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    color: maroon;
+}
+
+h2 {
+    text-align: center;
+    color: maroon;
+}
+
+h3 {
+    text-align: center;
+    color: maroon;
+}
+
+p {
+    text-align: center;
+    color: maroon;
+}
+
+body {
+    background-color: rgb(226, 228, 119);
+}
+
+form {
+    text-align: center;
+}
+
+label {
+ color: maroon;
+}
